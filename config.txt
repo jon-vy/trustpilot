@@ -1,0 +1,13 @@
+{
+"wp_rest_api": {
+    "domen": "https://merdoks.com",
+    "user": "developer",
+    "password": "RpGE VEYZ 0vX3 0Sa1 L8GO CuZZ"
+    },
+"data_base": {
+    "host": "193.201.9.199",
+    "user": "merdoks.com",
+    "db_password": "iM4xS6cV5g",
+    "db_name": "merdoks.com"
+    }
+}
